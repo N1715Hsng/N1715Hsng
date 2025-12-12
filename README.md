@@ -1,11 +1,18 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Nitish Chandra Singha</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"
+    style="height: 400px; width: 800px; margin: auto; display: block;"
+  />
+</p>
+
+
+
 
 ---
 
@@ -32,92 +39,68 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-## 🚀 About Me  
-- 🎓 B.Tech CSE Student at **GCELT**  
-- 💻 Passionate Frontend Developer (React, Next.js, Tailwind CSS)  
-- 🎨 Exploring UI/UX — color theory, typography, visual hierarchy  
-- 🔥 Love building clean, modern, responsive UIs  
-- 🧩 Have built client & personal projects  
-- 🌱 Always learning new technologies & improving design thinking  
+<div align="center">
+
+<h2 style="font-weight:600;">About Me</h2>
+
+<!-- Typing Animation -->
+<p>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;UI%2FUX+Learner;Clean+%26+Modern+Web+Design" 
+  />
+</p>
+
+</div>
+
+### • B.Tech CSE Student at **GCELT**  
+### • Passionate Frontend Developer  
+### • Exploring UI/UX — visual hierarchy, typography, layout  
+### • Building clean, responsive, modern web applications  
+### • Experienced in client projects & personal projects  
+### • Always learning and improving design & development skills  
 
 ---
+
 
 <!-- ========================= SKILLS SECTION ========================= -->
+## Languages & Tools  
 
-## 🛠️ Languages & Tools  
-<p align="left">
+<div align="left">
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
 
 <!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
 
 <!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<img src="https://skillicons.dev/icons?i=express" width="50"/>
 
 <!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/>
 
 <!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-vertical.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 
-</p>
+</div>
 
----
 
-<!-- ========================= GITHUB STATS ========================= -->
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1715Hsng&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1715Hsng&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-<!-- ========================= STREAK ========================= -->
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=N1715Hsng&theme=tokyonight" height="200"/>
-</p>
-
----
-
-<!-- ========================= TROPHIES ========================= -->
-
-## 🏆 GitHub Trophies  
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=N1715Hsng&theme=tokyonight&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-<!-- ========================= GITHUB METRICS ========================= -->
-
-## 📈 GitHub Metrics  
-<p align="center">
-  <img src="https://metrics.lecoq.io/N1715Hsng?template=classic&languages=1&isocalendar=1&followup=1&achievements=1&introduction=1&activity=1&notable=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&languages.limit=12&achievements.threshold=C&achievements.secrets=true&config.timezone=Asia%2FKolkata" width="90%"/>
-</p>
-
----
 
 <!-- ========================= PROFILE VIEWS ========================= -->
 
